@@ -49,6 +49,11 @@ const Footer = () => {
           </div>
         </div>
       </section>
+      <section className="mb-8">
+        <h3 className="flex justify-center items-center">
+          © Dr Hemapriya E-Commerce Academy{" "}
+        </h3>
+      </section>
     </Fragment>
   );
 };
